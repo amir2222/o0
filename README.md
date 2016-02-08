@@ -3,7 +3,10 @@
 <p align="center">**A Telegram Group Peace Keeper Bot**
 
 
-**Merbot** is a dedicated Telegram group manager bot based on [MerBot]
+**MAXTG** is a Best Antispam
+
+
+Telegram group manager bot based on [******MerBot******]
 
 #### Contact me
 
