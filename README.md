@@ -1,4 +1,4 @@
-# <p align="center">MAXTG
+# <p align="center">[**MAXTG**](https://github.com/Maxsteam/o0)
 
 <p align="center">**A Telegram Group Peace Keeper Bot**
 
