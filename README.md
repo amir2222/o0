@@ -8,10 +8,14 @@
 
 Telegram group manager bot based on [******MerBot******]
 
-#### Contact me
+ Contact me
 
 
-[**DissLOVE**](https://telegram.me/Bad_Bo0y)
+[**DISSLOVE/BADBOY**](https://telegram.me/Bad_Bo0y)/Creator
 
 
-[**AmirKhan #epika**](https://telegram.me/Khan_2222)
+[**AmirKhan #epika**](https://telegram.me/Khan_2222)/admin
+
+Thanks For
+
+[**Mohammad JM**](https://telegram.me/mohammadjm6) /Admin and developer
